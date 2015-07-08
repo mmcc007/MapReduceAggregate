@@ -7,7 +7,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>wpmcn.hadoop</name>
+	<name>mapreduce.aggregate</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

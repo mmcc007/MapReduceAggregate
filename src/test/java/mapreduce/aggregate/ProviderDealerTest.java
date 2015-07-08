@@ -41,7 +41,6 @@ public class ProviderDealerTest {
 
    @Test
    public void testReducer() {
-      List<List<LongWritable>> values = new ArrayList<List<LongWritable>>();
       List<Text> texts = new ArrayList<Text>();
       texts.add(new Text("0 1 0 1"));
       texts.add(new Text("0 1 0 1"));
